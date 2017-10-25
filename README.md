@@ -1,2 +1,2 @@
 # hypixelranksplugin
-Credits goes to 9Y0
+Blame 9Y0
