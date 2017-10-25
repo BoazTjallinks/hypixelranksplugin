@@ -1,0 +1,3 @@
+name: HypixelRank
+main: me._9y0.hypixelrank.HypixelRankPlugin
+version: ${project.version}
